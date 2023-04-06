@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html prefix="" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Combinatorial Arguments: The Problem is the Proof | Brownian Motion</title>
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../../assets/css/main.css">
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300%7CMontserrat:700" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="//code.jquery.com/jquery-1.10.2.min.js"></script><meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://knosmos.github.io/brownian/posts/combinatorial-arguments-the-problem-is-the-proof/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Jieruei Chang">
+<link rel="prev" href="../the-meaning-of-life-and-the-heat-death-of-the-universe/" title="The Meaning of Life and the Heat Death of the Universe" type="text/html">
+<link rel="next" href="../very-number-such-wow/" title="Very Number, Such Wow" type="text/html">
+<meta property="og:site_name" content="Brownian Motion">
+<meta property="og:title" content="Combinatorial Arguments: The Problem is the Proof">
+<meta property="og:url" content="https://knosmos.github.io/brownian/posts/combinatorial-arguments-the-problem-is-the-proof/">
+<meta property="og:description" content="The following is adapted from a lecture I gave to the PHS Math Team in February 2023
+A combinatorial proof shows that $A$ and $B$ are the same thing by showing that they are solutions to the same coun">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2023-02-22T16:53:23-04:00">
+</head>
+<body><main><!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chrome/">install Google Chrome</a> to experience this site.</p><![endif]--><header id="site-header"><div class="container">
+            <h1 class="blog-title heading"><a href="../../">Brownian Motion</a></h1>
+            <p class="blog-description">A collection of pseudorandom writings</p>
+            <div style="text-align:center;">
+                <img src="../../flourish.png" width="50%" style="display:inline-block">
+</div>
+        </div>
+    </header><main class="content" role="main"><div class="container">
+
+            
+<article class="post"><header class="post-header"><h3 class="p-post-title">Combinatorial Arguments: The Problem is the Proof</h3>
+    </header><section class="post-content"><p><em>The following is adapted from a lecture I gave to the PHS Math Team in February 2023</em></p>
+<p>A combinatorial proof shows that $A$ and $B$ are the same thing by showing that they are solutions to the <strong>same counting problem</strong>. Usually induction or algebraic proofs can also be used to solve these problems, but combinatorial proofs are usually more insightful and elegant.</p>
+<!-- TEASER_END -->
+
+<p><em>Sidenote:</em> $\binom{n}{k}=\frac{n!}{k!(n-k)!}$ is the number of ways to choose $k$ things from a set of $n$ distinct things.</p>
+<p><strong>Example 1.</strong>
+The $n$ members of Math Team want to visit the new Museum of Pigeon Holes, but there are only $k$ tickets left. How many ways are there to select $k$ people from the $n$ Math Team members?</p>
+<p><strong>Solution 1.</strong> We could solve this pretty easily with $\binom{n}{k}=\frac{n!}{k!(n-k)!}$. But notice this is the same thing as $\binom{n}{n-k}$, which is the number of ways to select the $n-k$ unlucky members. Because both $\binom{n}{k}$ and $\binom{n}{n-k}$ are both solutions to our problem, they must be equal to each other. In this case, we could have proved it algebraically, because $\binom{n}{n-k}$ is also equal to $\frac{n!}{k!(n-k)!}$. However, the algebraic justification does not give us an intuitive understanding of <em>why</em> they are actually equal.</p>
+<p><strong>Example 2.</strong>
+Prove that $\binom{2n}{2}=2\binom{n}{2}+n^2$.</p>
+<p><strong>Solution 2.</strong> Formulate as the number of ways to choose a committee of $2$ from a population of $2n$ people. Then the left side is trivial. For the right side, suppose we split the people into two groups, each with $n$ people. Then the number of pairs is the number of ways to choose pairs within each group, which is $2\binom{n}{2}$, plus the number of pairs that go between the two groups, $n^2$.</p>
+<p><strong>Solution 2, Algebraic.</strong>
+Left side:</p>
+<p>$$\binom{2n}{2}=\frac{(2n)!}{2!(2n-2)!}$$
+$$=\frac{2n\cdot (2n-1)}{2}$$
+$$=\frac{4n^2-2n}{2}$$
+$$=2n^2-n$$</p>
+<p>Right side:
+$$2\binom{n}{2}+n^2=2\frac{n!}{2!(n-2)!}+n^2$$
+$$=2\frac{n\cdot (n-1)}{2}+n^2$$
+$$=n^2-n+n^2$$
+$$=2n^2-n$$</p>
+<p>(see how much more intuitive the combinatorial argument is?)</p>
+<p><strong>Example 3.</strong>
+(Vandermonde’s Identity, even though the Chinese discovered it 400 years earlier) Prove that
+$$\binom{m+n}{r}=\sum_{k=0}^r\binom{m}{k}\binom{n}{r-k}.$$</p>
+<p><em>Hints:</em> Think of $m$ as the number of women and $n$ as the number of men.</p>
+<p><strong>Solution 3.</strong> Let's think about the problem of finding the number of ways to choose a committee of size $r$ from a population of $m$ women and $n$ men. Then the left side $\binom{m+n}{r}$ is the number of ways to choose $r$ people from $m+n$ total people.</p>
+<p>For the right hand side, let $k$ be the number of women in the committee. If we fix $k$, then the number of committees is $\binom{m}{k}$, the number of ways to choose $k$ women, times $\binom{n}{r-k}$, the number of ways to choose $r-k$ men. So, the total is the summation of the product for over all $k$.</p>
+<p><strong>The Binomial Theorem</strong></p>
+<p>It's pretty famous:</p>
+<p>$$(x+y)^n=\sum_{k=0}^{n}\binom{n}{k}x^ky^{n-k}$$</p>
+<p>You could solve this with induction, but induction is tedious and I don't like it. How do we prove this with a combinatorial argument?</p>
+<p>It's slightly different from the cases we have shown previously, but we can see that if we expand $(x+y)^n=(x+y)(x+y)\dots(x+y)$, each term is going to choose either $x$ or $y$ from each $(x+y)$ factor.</p>
+<p>So what is the coefficient of the $x^ky^{n-k}$ term in the final result? Out of $n$ terms, we are choosing $k$ of the $x$s (and the rest will be $y$s), so the coefficient of $x^ky^{n-k}$ is $\binom{n}{k}$. You could think about it as the number of ways to arrange a string of $k$ letter $x$s and $n-k$ letter $y$s. For example, if $n=4$ and $k=2$, you have the strings</p>
+<p>$$xxyy, xyxy,xyyx,yxxy,yxyx,yyxx$$</p>
+<p>and indeed $\binom{4}{2}=6$. To get our final result, we take the summation over all $k$.</p>
+<p><strong>So What?</strong></p>
+<p>Through these examples, I hope the reason for combinatorial proofs has become clear - they allow you to get a deeper understanding of the problem you are solving, not just a proof through algebraic bashing. The symmetry of the these proofs by double-counting is, in my opinion, one of the most beautiful things about mathematics. </p>
+ </section><hr>
+<footer class="post-footer"><section class="f-1"><section class="author"><p>
+                Jieruei Chang
+            </p></section><p class="f-post-time"><time datetime="2023-02-22T16:53:23-04:00">2023-02-22 16:53</time></p>
+        </section><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-3lJUsx1TJHt7BA4udB5KPnDrlkO8T6J6v/op7ui0BbCjvZ9WqV4Xm6DTP6kQ/iBH" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+    },
+    displayAlign: 'center', // Change this to 'left' if you want left-aligned equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script></footer></article>
+</div>
+</main><footer id="site-footer"><div class="container">
+            <p>Contents © 2023         <a href="mailto:jierueic@gmail.com">Jieruei Chang</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
+            
+        </div>
+    </footer></main></body>
+</html>

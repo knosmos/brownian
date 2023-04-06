@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html prefix="" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Very Number, Such Wow | Brownian Motion</title>
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../../assets/css/main.css">
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300%7CMontserrat:700" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="//code.jquery.com/jquery-1.10.2.min.js"></script><meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://knosmos.github.io/brownian/posts/very-number-such-wow/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Jieruei Chang">
+<link rel="prev" href="../combinatorial-arguments-the-problem-is-the-proof/" title="Combinatorial Arguments: The Problem is the Proof" type="text/html">
+<meta property="og:site_name" content="Brownian Motion">
+<meta property="og:title" content="Very Number, Such Wow">
+<meta property="og:url" content="https://knosmos.github.io/brownian/posts/very-number-such-wow/">
+<meta property="og:description" content="We are terrible at understanding large numbers. It’s a cognitive limit, a remnant of the good old days when humans spent their lives foraging for berries and lived in small nomadic bands of at most a ">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2023-04-06T01:14:56-04:00">
+</head>
+<body><main><!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chrome/">install Google Chrome</a> to experience this site.</p><![endif]--><header id="site-header"><div class="container">
+            <h1 class="blog-title heading"><a href="../../">Brownian Motion</a></h1>
+            <p class="blog-description">A collection of pseudorandom writings</p>
+            <div style="text-align:center;">
+                <img src="../../flourish.png" width="50%" style="display:inline-block">
+</div>
+        </div>
+    </header><main class="content" role="main"><div class="container">
+
+            
+<article class="post"><header class="post-header"><h3 class="p-post-title">Very Number, Such Wow</h3>
+    </header><section class="post-content"><p>We are terrible at understanding large numbers. It’s a cognitive limit, a remnant of the good old days when humans spent their lives foraging for berries and lived in small nomadic bands of at most a hundred people.</p>
+<!-- TEASER_END -->
+<p>Hunter-gatherers never needed to comprehend the phrases “I found 2,140,201 pounds of blackberries this year” or “the tribe population increased to 1,200,305 inhabitants in the spring season.”</p>
+<p>Alas, we live in a globalized society, one where yearly berry production is nineteen million pounds and the population is accelerating past eight billion. The global economy runs with 1.01 billion transactions per second, and the U.S. national debt has risen to 31.5 trillion dollars. We turn our eyes to the heavens and calculate that there might be as many as two trillion galaxies in the observable universe, each with billions upon billions of stars.</p>
+<p>We look at these figures with glazed-over eyes, and shrug indifferently. They are simply too large for us to understand. We can’t count them on our fingers or with tallies in the earth. To represent them we use the decimal positional system; based on the powers of ten, each additional zero tacked on to the end of a number increases its magnitude by one, and its value tenfold.</p>
+<p>The Arabic numeral system is brilliant ― it’s infinitely extensible, easy to understand, and makes math much much easier. As modern science progressed and we started encountering numbers with more zeros than would fit on a line, we invented scientific notation, representing. By compressing huge numbers, they make our lives far more convenient. But the greatest power of these systems is its greatest flaw ― not mathematically, but psychologically.</p>
+<p>The fundamental problem with any place-value number system is that it is logarithmic. We compare numbers based on their length ― which works when we just want to see which is larger, but fails miserably when we try to find <em>how much</em> larger. Tacking two zeros onto 10 doubles its length, but increases it by a hundredfold.</p>
+<p>How different is $10^{32}$ from $10^{35}$? Of course, it is a thousand times smaller. But at a first glance, it doesn’t look much different ― only a single digit apart. And how large, really, is $6.022 \times 10^{23}$? Sure, it’s the number of atoms in a gram of hydrogen, but even given that reference, all our primitive brains can understand is “oh wow that’s very big.”</p>
+<p>And this has real-life implications. We look at news headlines that say things like “Example Corporation raised \$2.1 billion in government subsidies” and “Example Corporation execs received \$20 million bonuses,” and we subconsciously equate the two, thinking that a large portion of our taxes are going towards CEO bonuses. Yet here is a visual:</p>
+<p><img alt="" src="../../images/verynumber-chart1.png"></p>
+<p>Now, admittedly, company executives are disproportionately wealthy ― but the same problem arises when we try to understand just <em>how</em> disproportionately wealthy they are. At the time of writing, the richest man alive is Bernard Arnault, with a net worth of \$228.2 billion. Now consider a man with \$100 million. You and I, most likely part of the 99.9%, look at both these men and throw them into the box labeled “very rich robber barons.” But again, a visual comparison:</p>
+<p><img alt="" src="../../images/verynumber-chart2.png"></p>
+<p>$100 million doesn’t take up a single pixel on that chart ― that’s how large the difference is. And if we were to make the same chart comparing our fictional millionaire to ourselves, we would most likely see the same thing.</p>
+<p>By drawing these visual comparisons, we can see just how vast the wealth disparity is. It’s not just a matter of a few extra zeros tacked on to the end of a number ― in our daily lives, we forget that each additional zero multiplies the number by a factor of <em>ten</em>.</p>
+<p>And because you are probably very tired of me talking about money, here is an example from Grace Hopper, famed computer scientist: how different is a nanosecond from a millisecond? This is the opposite end of the spectrum ― we have little understanding of these numbers other than “very small.” To better illustrate this, she brought out a length of wire, about thirty centimeters long: the length that electricity travels in a nanosecond, followed by a colossal spool of wire representing a millisecond. Not only is this an excellent visual aid, it also shows the power of comparison with tangible objects. It’s much easier to grasp the concept of a nanosecond when you can physically see the miniscule distance electricity can travel in that amount of time.</p>
+<p>Our brains may not be wired to comprehend numbers with more than a few digits, but though comparisons and visual aids, we can gain a better understanding of the numbers around us ― whether it be income inequalities, Avogadro’s number, the number of galaxies in the sky, the U.S. national debt, or the global annual blackberry harvest.</p>
+ </section><hr>
+<footer class="post-footer"><section class="f-1"><section class="author"><p>
+                Jieruei Chang
+            </p></section><p class="f-post-time"><time datetime="2023-04-06T01:14:56-04:00">2023-04-06 01:14</time></p>
+        </section><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-3lJUsx1TJHt7BA4udB5KPnDrlkO8T6J6v/op7ui0BbCjvZ9WqV4Xm6DTP6kQ/iBH" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+    },
+    displayAlign: 'center', // Change this to 'left' if you want left-aligned equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script></footer></article>
+</div>
+</main><footer id="site-footer"><div class="container">
+            <p>Contents © 2023         <a href="mailto:jierueic@gmail.com">Jieruei Chang</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
+            
+        </div>
+    </footer></main></body>
+</html>
