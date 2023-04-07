@@ -10,8 +10,9 @@
 .. type: text
 -->
 
-We are terrible at understanding large numbers. It’s a cognitive limit, a remnant of the good old days when humans spent their lives foraging for berries and lived in small nomadic bands of at most a hundred people.
-<!-- TEASER_END --> Hunter-gatherers never needed to comprehend the phrases “I found 2,140,201 pounds of blackberries this year” or “the tribe population increased to 1,200,305 inhabitants in the spring season.”
+We are terrible at understanding large numbers. It’s a cognitive limit, a remnant of the good old days when humans spent their lives foraging for berries and lived in small nomadic bands of at most a hundred people Hunter-gatherers never needed to comprehend the phrases “I found 2,140,201 pounds of blackberries this year” or “the tribe population increased to 1,200,305 inhabitants in the spring season.”
+
+<!-- TEASER_END -->
 
 Alas, we live in a globalized society, one where yearly berry production is nineteen million pounds and the population is accelerating past eight billion. The global economy runs with 1.01 billion transactions per second, and the U.S. national debt has risen to 31.5 trillion dollars. We turn our eyes to the heavens and calculate that there might be as many as two trillion galaxies in the observable universe, each with billions upon billions of stars.
 
