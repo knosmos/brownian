@@ -18,7 +18,7 @@ Alas, we live in a globalized society, one where yearly berry production is nine
 
 We look at these figures with glazed-over eyes, and shrug indifferently. They are simply too large for us to understand. We can’t count them on our fingers or with tallies in the earth. To represent them we use the decimal positional system; based on the powers of ten, each additional zero tacked on to the end of a number increases its magnitude by one, and its value tenfold.
 
-The Arabic numeral system is brilliant ― it’s infinitely extensible, easy to understand, and makes math much much easier. As modern science progressed and we started encountering numbers with more zeros than would fit on a line, we invented scientific notation, representing. By compressing huge numbers, they make our lives far more convenient. But the greatest power of these systems is its greatest flaw ― not mathematically, but psychologically.
+The Arabic numeral system is brilliant ― it’s infinitely extensible, easy to understand, and makes math much much easier. As modern science progressed and we started encountering numbers with more zeros than would fit on a line, we invented scientific notation, using exponents of 10 to condense them. By compressing huge numbers, they make our lives far more convenient. But the greatest power of these systems is its greatest flaw ― not mathematically, but psychologically.
 
 The fundamental problem with any place-value number system is that it is logarithmic. We compare numbers based on their length ― which works when we just want to see which is larger, but fails miserably when we try to find *how much* larger. Tacking two zeros onto 10 doubles its length, but increases it by a hundredfold.
 

@@ -667,6 +667,8 @@ table.codetable, table.highlighttable { width: 100%;}
 	SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+
 body {
 	color: #4F5151;
 	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
@@ -676,11 +678,11 @@ body {
 }
 
 .blog-title, .post-title, .p-post-title {
-	font-family: Garamond, "Source Sans Pro", Helvetica, Arial, sans-serif;	
+	font-family: "Source Serif Pro", Georgia, "Source Sans Pro", Helvetica, Arial, sans-serif;	
 }
 
 .post-content, .post-excerpt {
-	font-family: Georgia, "Source Sans Pro", Helvetica, Arial, sans-serif;
+	font-family: "Source Serif Pro", Georgia, "Source Sans Pro", Helvetica, Arial, sans-serif;
 	font-size: 15pt;
 }
 
@@ -854,14 +856,14 @@ body {
 
 /* Links */
 :link {
-	color: #0d3665;
+	color: #0f4482;
 	text-decoration: none;
 }
 :visited {
-	color: #220e3e;
+	color: #220c3f;
 }
 :link:hover, :visited:hover {
-	color: #0b305a;
+	color: #134681;
 }
 
 #brand :link,
