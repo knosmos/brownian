@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://knosmos.github.io/brownian/</loc>
-  <lastmod>2023-04-07T03:37:00Z</lastmod>
+  <lastmod>2023-04-09T20:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/2012/</loc>
@@ -22,6 +22,10 @@
   <lastmod>2023-04-05T03:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://knosmos.github.io/brownian/2021/</loc>
+  <lastmod>2023-04-09T20:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://knosmos.github.io/brownian/2022/</loc>
   <lastmod>2023-04-05T03:11:00Z</lastmod>
  </url>
@@ -31,7 +35,7 @@
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/archive.html</loc>
-  <lastmod>2023-04-08T02:57:00Z</lastmod>
+  <lastmod>2023-04-09T20:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/categories/</loc>
@@ -79,7 +83,7 @@
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/index-1.html</loc>
-  <lastmod>2023-04-08T02:57:00Z</lastmod>
+  <lastmod>2023-04-09T19:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/listings/</loc>
@@ -200,6 +204,10 @@
  <url>
   <loc>https://knosmos.github.io/brownian/posts/theft-of-the-clues/</loc>
   <lastmod>2023-04-05T04:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knosmos.github.io/brownian/posts/this-title-has-thirty-eight-characters/</loc>
+  <lastmod>2023-04-09T19:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/posts/very-number-such-wow/</loc>
