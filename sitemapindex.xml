@@ -26,10 +26,6 @@
   <lastmod>2023-04-06T05:24:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://knosmos.github.io/brownian/categories/demo.xml</loc>
-  <lastmod>2023-04-05T02:33:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://knosmos.github.io/brownian/categories/nikola.xml</loc>
   <lastmod>2023-04-05T02:33:00Z</lastmod>
  </sitemap>
@@ -47,10 +43,10 @@
  </sitemap>
  <sitemap>
   <loc>https://knosmos.github.io/brownian/rss.xml</loc>
-  <lastmod>2023-04-14T01:12:00Z</lastmod>
+  <lastmod>2023-04-14T01:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://knosmos.github.io/brownian/sitemap.xml</loc>
-  <lastmod>2023-04-14T01:14:00Z</lastmod>
+  <lastmod>2023-04-14T01:17:00Z</lastmod>
  </sitemap>
 </sitemapindex>

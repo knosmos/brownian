@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-The sky outside was the color of an inkspill, dotted by splotches of ominous, grey clouds. The white noise of a tremendous downpour roared outside, and waves of thunder crashed over the aerial landscape good. Looking down at my ill-gotten gains as a stroke of lightning illuminated the sky, I could not resist a small, sly grin.
+The sky outside was the color of an inkspill, dotted by splotches of ominous, grey clouds. The white noise of a tremendous downpour roared outside, and waves of thunder crashed over the aerial landscape. Looking down at my ill-gotten gains as a stroke of lightning illuminated the sky, I could not resist a small, sly grin.
 
 <!-- TEASER_END -->
 
