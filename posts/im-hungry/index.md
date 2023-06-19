@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-I’m hungry. It’s intrinsic, some sort of internal voracious insatiable unquenchable craving for food, sustenance, nourishment, whatever you want to call it. For some reason, there’s no shortage of it here ― but perhaps paradoxically there is never enough to eat. Probably a cruel joke, played by the same unknown malevolent entity that put me here as entertainment, as a plaything, a puppet dancing to its sadistic tune.
+I’m hungry. It’s intrinsic, some sort of internal voracious insatiable unquenchable craving for food, sustenance, nourishment, whatever you want to call it. For some reason, there’s no shortage of it here ― but perhaps paradoxically there is never enough to eat. Probably a cruel joke, played by the same unknown malevolent entity that put me here as entertainment, as a plaything.
 <!-- TEASER_END -->
 I’m trapped here. This place is a labyrinth of shadows and twisted corridors, a place devoid of hope. It must be some sort of otherworldly dimension, a realm where the laws of reality bend and warp. You reach what seems to be an exit, only to find that it merely loops to the other side of this prison. The sky is nothing but pure black, no gently pulsing sheets of clouds above, no twinkling starlight to guide the way. The walls are a brilliant pure blue, probably the most garish shade that a graphic designer could have possibly chosen.
 
