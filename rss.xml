@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brownian Motion</title><link>https://knosmos.github.io/brownian/</link><description>A collection of pseudorandom writings</description><atom:link href="https://knosmos.github.io/brownian/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jierueic@gmail.com"&gt;Jieruei Chang&lt;/a&gt; </copyright><lastBuildDate>Tue, 20 Jun 2023 20:24:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Instagram Poetry</title><link>https://knosmos.github.io/brownian/posts/instagram-poetry/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;div&gt;&lt;p&gt;quarks, leptons, bosons ―&lt;br&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brownian Motion</title><link>https://knosmos.github.io/brownian/</link><description>A collection of pseudorandom writings</description><atom:link href="https://knosmos.github.io/brownian/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jierueic@gmail.com"&gt;Jieruei Chang&lt;/a&gt; </copyright><lastBuildDate>Thu, 22 Jun 2023 15:23:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Isolation</title><link>https://knosmos.github.io/brownian/posts/isolation/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;I see a mote of dust&lt;br&gt;
+whirling&lt;br&gt;
+. . on&lt;br&gt;
+. . . . im&lt;br&gt;
+per . .&lt;br&gt;
+. . cep&lt;br&gt;
+. . . . ti&lt;br&gt;
+. . . . . . . ble&lt;br&gt;
+. . . . currents&lt;br&gt;
+of air&lt;/p&gt;
+&lt;p&gt;| dangling&lt;br&gt;
+| on&lt;br&gt;
+| a&lt;br&gt;
+| thin&lt;br&gt;
+| stream&lt;br&gt;
+| of&lt;br&gt;
+| light&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;feeling nothing
+but the way the
+wind blows past
+its small cubic
+volume of space
+&lt;/pre&gt;
+&lt;p&gt;drifting&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+(alone)&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+through emptiness&lt;br&gt;&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/isolation/</guid><pubDate>Thu, 22 Jun 2023 15:08:27 GMT</pubDate></item><item><title>Instagram Poetry</title><link>https://knosmos.github.io/brownian/posts/instagram-poetry/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;div&gt;&lt;p&gt;quarks, leptons, bosons ―&lt;br&gt;
 we are all&lt;br&gt;
 the same&lt;br&gt;
 inside&lt;/p&gt;
@@ -41,6 +70,4 @@ a blend of chocolate harmony.&lt;/p&gt;</description><guid>https://knosmos.githu
 &lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/through-hardships-to-the-stars/"&gt;Read more…&lt;/a&gt; (4 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/through-hardships-to-the-stars/</guid><pubDate>Fri, 07 Apr 2023 01:25:56 GMT</pubDate></item><item><title>Very Number, Such Wow</title><link>https://knosmos.github.io/brownian/posts/very-number-such-wow/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;div&gt;&lt;p&gt;We are terrible at understanding large numbers. It’s a cognitive limit, a remnant of the good old days when humans spent their lives foraging for berries and lived in small nomadic bands of at most a hundred people Hunter-gatherers never needed to comprehend the phrases “I found 2,140,201 pounds of blackberries this year” or “the tribe population increased to 1,200,305 inhabitants in the spring season.”&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/very-number-such-wow/"&gt;Read more…&lt;/a&gt; (4 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/very-number-such-wow/</guid><pubDate>Thu, 06 Apr 2023 05:14:56 GMT</pubDate></item><item><title>Combinatorial Arguments: The Problem is the Proof</title><link>https://knosmos.github.io/brownian/posts/combinatorial-arguments-the-problem-is-the-proof/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;The following is adapted from a lecture I gave to the PHS Math Team in February 2023&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;A combinatorial proof shows that $A$ and $B$ are the same thing by showing that they are solutions to the &lt;strong&gt;same counting problem&lt;/strong&gt;. Usually induction or algebraic proofs can also be used to solve these problems, but combinatorial proofs are usually more insightful and elegant.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/combinatorial-arguments-the-problem-is-the-proof/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/combinatorial-arguments-the-problem-is-the-proof/</guid><pubDate>Wed, 22 Feb 2023 20:53:23 GMT</pubDate></item><item><title>The Meaning of Life and the Heat Death of the Universe</title><link>https://knosmos.github.io/brownian/posts/the-meaning-of-life-and-the-heat-death-of-the-universe/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;div&gt;&lt;p&gt;The heat death of the universe is inevitable.&lt;/p&gt;
-&lt;p&gt;The stars will blink out of existence in spectacular fashion, each putting on a final fireworks show for an indifferent universe, and the heavens will settle into a self-satisfied soup of thermodynamic equilibrium: a perfect entropy, a uniform chaos.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/the-meaning-of-life-and-the-heat-death-of-the-universe/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/the-meaning-of-life-and-the-heat-death-of-the-universe/</guid><pubDate>Fri, 17 Feb 2023 03:07:48 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/combinatorial-arguments-the-problem-is-the-proof/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/combinatorial-arguments-the-problem-is-the-proof/</guid><pubDate>Wed, 22 Feb 2023 20:53:23 GMT</pubDate></item></channel></rss>
