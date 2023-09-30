@@ -11,7 +11,11 @@
 
 *Written after a very frustrating debugging session*
 
-After analysing my situation in great detail and considering all possible courses of action, I came to the conclusion that I was screwed.
+Absolutely screwed.
+
+After analysing my situation in great detail and considering all possible courses of action, that is my informed conclusion. Utterly completely positively screwed.
+
+<!-- TEASER_END -->
 
 It was assigned a month ago, but the human mind is a master at refusing to get things done. At first I had decided that two weeks would be enough to finish it, but as the time ticked down I convinced myself that two days would be sufficient. Reality only kicked in the night before the 8:00 a.m. deadline, when I realised that I had yet to start. As it turns out, inertia not only applies to physical objects, but also to our brains.
 
@@ -19,9 +23,7 @@ But what to do? The project was worth twenty percent of the final grade. If I di
 
 And that, my dear friend, is how I found myself at two in the morning, eating a bowl of Cup Noodles brewed with cold coffee. It’s not as bad as it sounds. Well, it actually is about as bad as it sounds, but the dorm’s kettle was broken and taste buds are a lot more forgiving when you’re desperate for something to eat ― hence why I decided that at this time and place it was socially acceptable for me to mix instant noodles with the cup of coffee left on the kitchenette counter from two (or was it three?) days ago. I was probably committing some sort of culinary war crime in the process, but I was far beyond caring.
 
-<!-- TEASER_END -->
-
-The midterm project of *Introduction to Orbital Mechanics* was to make an n-body simulator. The assignment was not particularly difficult, or so I thought. A perennial problem in physics is that everything is harder than it deserves to be. Actually, that seems to apply to life in general as well.
+The midterm project of *Introduction to Orbital Mechanics* was to make an n-body simulator. The assignment was not particularly difficult, or so I thought; a perennial problem in physics is that everything is harder than it deserves to be. Actually, that seems to apply to life in general as well.
 
 An n-body simulator models the behaviour of multiple dynamic particles acting under the influence of gravity. So, for example, it can model the planets as they move around the Sun. Simple enough, right? Just some basic applications of Kepler’s laws of planetary motion. Except each of the objects is also acting on the others ― the Sun pulls on Jupiter, but Jupiter also pulls on the Sun, and Jupiter also pulls on Mercury and Venus and some random comet hovering at the edge of the solar system. With some clever differential equations and analytic integration, that’s all solvable, just really annoying to code.
 
