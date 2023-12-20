@@ -13,7 +13,7 @@ Highlands. Dreary, windswept. Moody grasses kneaded, smeared into cliff faces of
 
 <!--TEASER_END-->
 
-Marius, Seventh Lord of Wiltingshire has a reputation for dramatic entrances. From his robe he draws a thin ebony rod, delusive in its apparent fragility, hiding the formless power coursing through its wooden fibers. The wind herself seems to recoil.
+Marius, Seventh Lord of Wiltingshire, has a reputation for dramatic entrances. From his robe he draws a thin ebony rod, delusive in its apparent fragility, hiding the formless power coursing through its wooden fibers. The wind herself seems to recoil.
 
 This was not what I expected when he suggested that the matter be “settled out of court.”
 
@@ -27,6 +27,6 @@ It is a blessing that Marius has chosen a long chant, unquestionably to humiliat
 
 *Magic Glitter Attack!*
 
-Ten ounces of craft-grade multicolored shiny plastic dust fired at forty meters per second. Headshot.
+Ten ounces of craft-grade multicolored shiny plastic dust, forty meters per second, straight between the eyes. Headshot.
 
 *May the best duelist win.*
