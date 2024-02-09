@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-Highlands. Dreary, windswept. Moody grasses kneaded, smeared into cliff faces of imposing rock. Petrichor mixing with fumes of moss diffusing across the earth (Scotland, probably, by the looks of it). A figure emerges through the fog―pensive, contemplative, a hood of cashmere effortlessly concealing a dark gash down the side of his temple.
+Highlands. Dreary, windswept, moody. Yellowing grass smeared into cliff faces of imposing rock; petrichor mixing with fumes of moss diffusing across the earth (Scotland, probably, by the looks of it). A figure emerges through the fog―pensive, contemplative, a hood of cashmere effortlessly concealing a dark gash down the side of his temple.
 
 <!--TEASER_END-->
 

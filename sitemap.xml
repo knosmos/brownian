@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://knosmos.github.io/brownian/</loc>
-  <lastmod>2023-04-10T00:15:00Z</lastmod>
+  <lastmod>2024-02-09T22:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/2019/</loc>
@@ -30,8 +30,12 @@
   <lastmod>2023-04-05T02:49:00Z</lastmod>
  </url>
  <url>
+  <loc>https://knosmos.github.io/brownian/2024/</loc>
+  <lastmod>2024-02-09T22:04:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://knosmos.github.io/brownian/archive.html</loc>
-  <lastmod>2023-12-20T06:28:00Z</lastmod>
+  <lastmod>2024-02-09T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/categories/</loc>
@@ -79,7 +83,7 @@
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/index-1.html</loc>
-  <lastmod>2023-12-20T06:28:00Z</lastmod>
+  <lastmod>2024-02-09T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/listings/</loc>
@@ -152,6 +156,10 @@
  <url>
   <loc>https://knosmos.github.io/brownian/pages/theming/</loc>
   <lastmod>2023-04-05T02:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knosmos.github.io/brownian/posts/a-multiverse-of-narratives/</loc>
+  <lastmod>2024-02-09T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/posts/a-relentless-ticking/</loc>
@@ -228,6 +236,10 @@
  <url>
   <loc>https://knosmos.github.io/brownian/posts/moon/</loc>
   <lastmod>2023-04-05T03:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://knosmos.github.io/brownian/posts/pillars-of-salt-and-pillars-of-sand/</loc>
+  <lastmod>2024-02-09T22:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://knosmos.github.io/brownian/posts/settling-the-heavens/</loc>
