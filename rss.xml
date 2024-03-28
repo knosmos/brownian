@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brownian Motion</title><link>https://knosmos.github.io/brownian/</link><description>A collection of pseudorandom writings</description><atom:link href="https://knosmos.github.io/brownian/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:jierueic@gmail.com"&gt;Jieruei Chang&lt;/a&gt; </copyright><lastBuildDate>Tue, 26 Mar 2024 22:20:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>https://en.wikipedia.org/wiki/12_(number)</title><link>https://knosmos.github.io/brownian/posts/httpsenwikipediaorgwiki12_number/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;the number of years&lt;br&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brownian Motion</title><link>https://knosmos.github.io/brownian/</link><description>A collection of pseudorandom writings</description><atom:link href="https://knosmos.github.io/brownian/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:jierueic@gmail.com"&gt;Jieruei Chang&lt;/a&gt; </copyright><lastBuildDate>Thu, 28 Mar 2024 00:22:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Bryant Park</title><link>https://knosmos.github.io/brownian/posts/bryant-park/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;In Bryant Park&lt;br&gt;
+there is a man&lt;br&gt;
+with a chessboard.&lt;br&gt;
+&lt;em&gt;Game?&lt;/em&gt; he asks,&lt;br&gt;
+gesturing to the&lt;br&gt;
+empty seat beside him.&lt;/p&gt;
+&lt;p&gt;I feel another hand&lt;br&gt;
+pulling against my own:&lt;br&gt;
+&lt;em&gt;Come on. We’ll be late.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;My eyes linger&lt;br&gt;
+for a moment&lt;br&gt;
+before glancing the other way.&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/bryant-park/</guid><pubDate>Thu, 28 Mar 2024 00:20:55 GMT</pubDate></item><item><title>https://en.wikipedia.org/wiki/12_(number)</title><link>https://knosmos.github.io/brownian/posts/httpsenwikipediaorgwiki12_number/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;the number of years&lt;br&gt;
     in an orbital period of Jupiter&lt;/p&gt;
 &lt;p&gt;three times four:&lt;br&gt;
 the sixth composite&lt;br&gt;
@@ -43,33 +54,4 @@ you feel&lt;br&gt;
 like home&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/taiwan-i-hear-you-singing/</guid><pubDate>Wed, 30 Aug 2023 22:14:42 GMT</pubDate></item><item><title>Floating Point Errors</title><link>https://knosmos.github.io/brownian/posts/floating-point-errors/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Written after a very frustrating debugging session&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Absolutely screwed.&lt;/p&gt;
 &lt;p&gt;After analysing my situation in great detail and considering all possible courses of action, that is my informed conclusion. Utterly completely positively screwed.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/floating-point-errors/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/floating-point-errors/</guid><pubDate>Fri, 11 Aug 2023 03:10:34 GMT</pubDate></item><item><title>Isolation</title><link>https://knosmos.github.io/brownian/posts/isolation/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;I see a mote of dust&lt;br&gt;
-whirling&lt;br&gt;
-. . on&lt;br&gt;
-. . . . im&lt;br&gt;
-per . .&lt;br&gt;
-. . cep&lt;br&gt;
-. . . . ti&lt;br&gt;
-. . . . . . . ble&lt;br&gt;
-. . . . currents&lt;br&gt;
-of air&lt;/p&gt;
-&lt;p&gt;| dangling&lt;br&gt;
-| on&lt;br&gt;
-| a&lt;br&gt;
-| thin&lt;br&gt;
-| stream&lt;br&gt;
-| of&lt;br&gt;
-| light&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;feeling nothing
-but the way the
-wind blows past
-its small cubic
-volume of space
-&lt;/pre&gt;
-&lt;p&gt;drifting&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-(alone)&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-through emptiness&lt;br&gt;&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/isolation/</guid><pubDate>Thu, 22 Jun 2023 15:08:27 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/floating-point-errors/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/floating-point-errors/</guid><pubDate>Fri, 11 Aug 2023 03:10:34 GMT</pubDate></item></channel></rss>
