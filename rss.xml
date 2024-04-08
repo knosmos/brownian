@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brownian Motion</title><link>https://knosmos.github.io/brownian/</link><description>A collection of pseudorandom writings</description><atom:link href="https://knosmos.github.io/brownian/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:jierueic@gmail.com"&gt;Jieruei Chang&lt;/a&gt; </copyright><lastBuildDate>Thu, 28 Mar 2024 00:22:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Bryant Park</title><link>https://knosmos.github.io/brownian/posts/bryant-park/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;In Bryant Park&lt;br&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brownian Motion</title><link>https://knosmos.github.io/brownian/</link><description>A collection of pseudorandom writings</description><atom:link href="https://knosmos.github.io/brownian/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:jierueic@gmail.com"&gt;Jieruei Chang&lt;/a&gt; </copyright><lastBuildDate>Mon, 08 Apr 2024 02:49:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Monster of Lake Tahoe</title><link>https://knosmos.github.io/brownian/posts/the-monster-of-lake-tahoe/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;&lt;em&gt;Written while procrastinating on linalg homework&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fish. Brine. The sound of waves rippling across midnight air.&lt;/p&gt;
+&lt;p&gt;They were rippling quite hard, in fact―the boat felt like it was about to capsize. But not too far away were the lights of the ports. Not too far away was home. Not too far away was my boy, who still thought his dad wrangled sea monsters for a living. I mean, he technically wasn’t wrong―the bluefin tuna I caught last week was quite a struggle. But it was nothing compared to the legendary Monster of Lake Tahoe, supposedly a hundred-ton tentacled beast that lurks beneath the waves. (Or something like that. The tale grows grander every time I hear it.)&lt;/p&gt;
+&lt;p&gt;The boat rocked. It heaved with each crest and trough, its metal hull creaking like a chainsmoker trying to do deep meditative breathing. Water rushed across the deck; the radio crackled; the engine sputtered but powered onwards.&lt;/p&gt;
+&lt;p&gt;Some boats sink gracefully. Not mine. It fought. The metal bent and screamed as it was torn asunder. Water spilled into the ship’s guts, probably to the short-lived excitement of salmon in the cargo hold. The boat’s lights flickered off for the last time as the generator’s rumble gave way to momentary silence; the stern plunged into the water, taking me down with it; saltwater flooded into my nostrils and stung my eyes―I felt like I was swimming through molasses. Every movement was in slow motion. In the distance, silhouetted against the night sky, something (a wave?) rose from the water. I felt myself in the air, carried by some unseen force, something cold wrapping itself around me (the wind?)... And then I watched as lightning arced across the sky, briefly illuminating the mangled corpse of my boat (and something else?)...
+And then I glimpsed the coast coming closer...
+And then...&lt;/p&gt;
+&lt;p&gt;I woke up coughing somewhere on the shoreline. Slowly my vision cleared, revealing a cloudless horizon ahead. I looked around. Out of the corner of my eye I caught a hint of a shape darting back beneath the water.&lt;/p&gt;
+&lt;p&gt;Then, nothing.&lt;/p&gt;
+&lt;p&gt;Nothing but the sound of waves rippling across midnight air.&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/the-monster-of-lake-tahoe/</guid><pubDate>Mon, 08 Apr 2024 02:48:06 GMT</pubDate></item><item><title>Bryant Park</title><link>https://knosmos.github.io/brownian/posts/bryant-park/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;In Bryant Park&lt;br&gt;
 there is a man&lt;br&gt;
 with a chessboard.&lt;br&gt;
 &lt;em&gt;Game?&lt;/em&gt; he asks,&lt;br&gt;
-gesturing to the&lt;br&gt;
-empty seat beside him.&lt;/p&gt;
+gesturing to the empty&lt;br&gt;
+seat beside him.&lt;/p&gt;
 &lt;p&gt;I feel another hand&lt;br&gt;
 pulling against my own:&lt;br&gt;
 &lt;em&gt;Come on. We’ll be late.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;My eyes linger&lt;br&gt;
 for a moment&lt;br&gt;
-before glancing the other way.&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/bryant-park/</guid><pubDate>Thu, 28 Mar 2024 00:20:55 GMT</pubDate></item><item><title>https://en.wikipedia.org/wiki/12_(number)</title><link>https://knosmos.github.io/brownian/posts/httpsenwikipediaorgwiki12_number/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;the number of years&lt;br&gt;
+before glancing away.&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/bryant-park/</guid><pubDate>Thu, 28 Mar 2024 00:20:55 GMT</pubDate></item><item><title>https://en.wikipedia.org/wiki/12_(number)</title><link>https://knosmos.github.io/brownian/posts/httpsenwikipediaorgwiki12_number/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;p&gt;the number of years&lt;br&gt;
     in an orbital period of Jupiter&lt;/p&gt;
 &lt;p&gt;three times four:&lt;br&gt;
 the sixth composite&lt;br&gt;
@@ -51,7 +60,4 @@ but though we’ve changed&lt;br&gt;
 so much since we last met&lt;br&gt;
 still&lt;br&gt;
 you feel&lt;br&gt;
-like home&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/taiwan-i-hear-you-singing/</guid><pubDate>Wed, 30 Aug 2023 22:14:42 GMT</pubDate></item><item><title>Floating Point Errors</title><link>https://knosmos.github.io/brownian/posts/floating-point-errors/</link><dc:creator>Jieruei Chang</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;Written after a very frustrating debugging session&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Absolutely screwed.&lt;/p&gt;
-&lt;p&gt;After analysing my situation in great detail and considering all possible courses of action, that is my informed conclusion. Utterly completely positively screwed.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://knosmos.github.io/brownian/posts/floating-point-errors/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://knosmos.github.io/brownian/posts/floating-point-errors/</guid><pubDate>Fri, 11 Aug 2023 03:10:34 GMT</pubDate></item></channel></rss>
+like home&lt;/p&gt;</description><guid>https://knosmos.github.io/brownian/posts/taiwan-i-hear-you-singing/</guid><pubDate>Wed, 30 Aug 2023 22:14:42 GMT</pubDate></item></channel></rss>

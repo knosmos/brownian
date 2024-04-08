@@ -13,8 +13,8 @@ In Bryant Park<br>
 there is a man<br>
 with a chessboard.<br>
 *Game?* he asks,<br>
-gesturing to the<br>
-empty seat beside him.
+gesturing to the empty<br>
+seat beside him.
 
 I feel another hand<br>
 pulling against my own:<br>
@@ -22,4 +22,4 @@ pulling against my own:<br>
 
 My eyes linger<br>
 for a moment<br>
-before glancing the other way.
+before glancing away.
