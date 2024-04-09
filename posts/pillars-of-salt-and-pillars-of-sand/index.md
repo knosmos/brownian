@@ -20,6 +20,7 @@ Andrew couldn’t sleep. He glanced wearily at the bluish light emanating from h
 Andrew was trying his best to be cordial to Sam. His sleep schedule was on the verge of filing a restraining order against the guy.
 
 “Sorry about the racket, but I got this awesome idea and this is the only time I have to work on it ― hey, you wanna hear?”
+
 “I’m sure I’ll hear about it enough in the morning.”
 
 He turned over to look at his roommate. Sam had put his headphones on, nodding his head to a beat only he could hear. Andrew squinted his eyes at the screen: some early 21st-century Coldplay song. He pulled the covers over his head and forced shut his eyes. It didn’t work.
