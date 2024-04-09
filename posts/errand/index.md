@@ -13,7 +13,7 @@ Death is awoken by a phone call.
 
 “Fine,” he says. Glancing wearily at the time marked on the hands of his pocketwatch, he tumbles gracelessly out of his cramped apartment bed. The work doesn’t pay well.
 <!-- TEASER_END -->
-He rubs his eye sockets. His withered hands flail about clumsily as he fumbles for his glasses, knocking over his dentures, brushing against his cup of evening coffee lying half-finished on the nightstand. A realisation, too late. The sharp yet gentle plink of ceramic shrapnel.
+He rubs his eye sockets. His withered hands flail about clumsily as he fumbles for his glasses, knocking over his dentures, brushing against his cup of evening coffee lying half-finished on the nightstand. A realisation, too late. The sharp yet gentle *plink* of ceramic shrapnel.
 
 Death sighs. His skeletal feet stir irregularly as he gingerly avoids the spot of brown now slowly spreading across the carpet, shuffling in the darkness towards his closet with his glasses balancing precariously on the bridge of his bony nose. There is a ketchup stain on his cloak. Death makes a mental note to buy more laundry detergent.
 

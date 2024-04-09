@@ -9,11 +9,13 @@
 .. type: text
 -->
 
-*Written while procrastinating on linalg homework*
+*Written while procrastinating on linear algebra homework*
 
 Fish. Brine. The sound of waves rippling across midnight air.
 
 They were rippling quite hard, in fact―the boat felt like it was about to capsize. But not too far away were the lights of the ports. Not too far away was home. Not too far away was my boy, who still thought his dad wrangled sea monsters for a living. I mean, he technically wasn’t wrong―the bluefin tuna I caught last week was quite a struggle. But it was nothing compared to the legendary Monster of Lake Tahoe, supposedly a hundred-ton tentacled beast that lurks beneath the waves. (Or something like that. The tale grows grander every time I hear it.)
+
+<!--TEASER_END-->
 
 The boat rocked. It heaved with each crest and trough, its metal hull creaking like a chainsmoker trying to do deep meditative breathing. Water rushed across the deck; the radio crackled; the engine sputtered but powered onwards.
 

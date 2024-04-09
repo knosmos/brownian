@@ -21,4 +21,5 @@ sweet and bitter,<br>
 delight and pain ―<br>
 hope that inspires<br>
 desolation that strengthens:<br>
-a blend of chocolate harmony.
+a blend of love, of hate,<br>
+of chocolate harmony.

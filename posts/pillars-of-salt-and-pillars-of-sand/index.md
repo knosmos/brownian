@@ -33,6 +33,7 @@ Morning. Exhausted from a night spent listening to a symphony of Sam’s drummin
 This cycle of sleepless nights and pseudo-“eureka” moments was beginning to tire him out. The last time Sam was up clickety-clacking at the keyboard, his “awesome” idea was a service called “BirdBeats,” a business where subscribers would receive procedurally generated recordings of woodpeckers on different surfaces. It was supposed to be therapeutic, or something like that. Andrew couldn’t stand it.
 
 “Sorry, remember I got a chem final to take?”
+
 “Ah. Right. I’ll tell you about it after.”
 
 Andrew got back shortly before noon. Sam practically sprang open the door in his face, pulling him into a chair. Andrew slumped into the cushion, feeling his skin wrinkle as it molded itself into the creases. Sam pulled him closer. On the table, Sam had laid out a giant sheet of poster paper. Flowcharts crawled across the page, a tangle of arrows joining geometric shapes together. “Blockchain” seemed to be scribbled on half of them.
@@ -104,7 +105,7 @@ Andrew listened as her footsteps echoed down the corridor, fading softly into si
 
 Andrew stepped out into the crispness of the morning, the *tap-tap-tap* of a four-legged ball of excitement trailing closely behind. The sun had just peeked above the horizon.
 
-―
+<center>―</center><br>
 
 Sam stuffed a newspaper in his bag. Slowly he walked down the steps towards the exit, his hand brushing the railings with an air of nostalgia. Had the building not been deserted, someone might have just been able to make out the headline, written in bold capital letters just above his frowning headshot.
 
