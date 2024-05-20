@@ -14,7 +14,7 @@ there is a man<br>
 with a chessboard.<br>
 *Game?* he asks,<br>
 gesturing to the empty<br>
-seat beside him.
+seat across him.
 
 I feel another hand<br>
 pulling against my own:<br>
