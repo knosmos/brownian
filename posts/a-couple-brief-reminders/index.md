@@ -13,7 +13,7 @@
 
 Remember to drink 3.7 liters of water per day to maintain adequate hydration.
 
-Remember to brush your teeth twice a day. Your dentist says to do it three times, but we know that’s not going to happen.
+Remember to brush your teeth twice a day. Your dentist says to do it three times, but we both know that’s not going to happen.
 
 Remember to raise your hand. Ask stupid questions. Give stupid answers. Then, learn from them. Do things that you aren’t good at, so that you can improve. It’s better to look like an idiot than to actually be one.
 <!--TEASER_END-->
