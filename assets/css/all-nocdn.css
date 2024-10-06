@@ -900,14 +900,14 @@ body {
 
 /* Links */
 :link {
-	color: #0f4482;
+	color: #054a98;
 	text-decoration: none;
 }
 :visited {
-	color: #220c3f;
+	color: #054a98;
 }
 :link:hover, :visited:hover {
-	color: #134681;
+	color: #980571;
 }
 
 #brand :link,
