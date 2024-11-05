@@ -23,6 +23,7 @@ blood won’t come off hands
 bloodstained hands how to clean  
 how to wash blood from hands  
 
+horseback directions to scone
 coronation rituals scotland  
 how to hire a hitman  
 
@@ -41,8 +42,7 @@ castle barricading
 
 meaning of life  
 
-how to write a soliloquy  
+how to write a soliloquoy  
+how to spell soliloquy
 
-tomorrow and tomorrow  
-
-tomorrow  
+dramatic death scenes
